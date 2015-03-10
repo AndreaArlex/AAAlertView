@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B73E8DC6-8395-4F0B-A707-1C147BA24431</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AAAlertViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>33DC153B80333D9ADB9AA2D42DEC689AD4D2D677</key>
+		<string>https://github.com/AndreaArlex/AAAlertView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AAAlertViewDemo/AAAlertViewDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>33DC153B80333D9ADB9AA2D42DEC689AD4D2D677</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AndreaArlex/AAAlertView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>33DC153B80333D9ADB9AA2D42DEC689AD4D2D677</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>33DC153B80333D9ADB9AA2D42DEC689AD4D2D677</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AAAlertView</string>
+		</dict>
+	</array>
+</dict>
+</plist>

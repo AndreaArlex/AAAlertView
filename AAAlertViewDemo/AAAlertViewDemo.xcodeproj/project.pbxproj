@@ -14,6 +14,7 @@
 		3A1B7CC31AAF2E4D00B6336D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A1B7CC21AAF2E4D00B6336D /* Images.xcassets */; };
 		3A1B7CC61AAF2E4D00B6336D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A1B7CC41AAF2E4D00B6336D /* LaunchScreen.xib */; };
 		3A1B7CD21AAF2E4D00B6336D /* AAAlertViewDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A1B7CD11AAF2E4D00B6336D /* AAAlertViewDemoTests.m */; };
+		3A1B7CDE1AAF2F5700B6336D /* AAAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A1B7CDD1AAF2F5700B6336D /* AAAlertView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		3A1B7CCB1AAF2E4D00B6336D /* AAAlertViewDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AAAlertViewDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A1B7CD01AAF2E4D00B6336D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A1B7CD11AAF2E4D00B6336D /* AAAlertViewDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AAAlertViewDemoTests.m; sourceTree = "<group>"; };
+		3A1B7CDC1AAF2F5700B6336D /* AAAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAAlertView.h; sourceTree = "<group>"; };
+		3A1B7CDD1AAF2F5700B6336D /* AAAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAAlertView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,7 @@
 		3A1B7CA91AAF2E4D00B6336D = {
 			isa = PBXGroup;
 			children = (
+				3A1B7CDB1AAF2F4300B6336D /* AAAlertView */,
 				3A1B7CB41AAF2E4D00B6336D /* AAAlertViewDemo */,
 				3A1B7CCE1AAF2E4D00B6336D /* AAAlertViewDemoTests */,
 				3A1B7CB31AAF2E4D00B6336D /* Products */,
@@ -117,6 +121,15 @@
 				3A1B7CD01AAF2E4D00B6336D /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3A1B7CDB1AAF2F4300B6336D /* AAAlertView */ = {
+			isa = PBXGroup;
+			children = (
+				3A1B7CDC1AAF2F5700B6336D /* AAAlertView.h */,
+				3A1B7CDD1AAF2F5700B6336D /* AAAlertView.m */,
+			);
+			path = AAAlertView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -220,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A1B7CBE1AAF2E4D00B6336D /* ViewController.m in Sources */,
+				3A1B7CDE1AAF2F5700B6336D /* AAAlertView.m in Sources */,
 				3A1B7CBB1AAF2E4D00B6336D /* AppDelegate.m in Sources */,
 				3A1B7CB81AAF2E4D00B6336D /* main.m in Sources */,
 			);
